@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616922099643",
+    "project_id": "thapar-express-d44cd",
+    "storage_bucket": "thapar-express-d44cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616922099643:android:cf375495f61b5d3d635e9e",
+        "android_client_info": {
+          "package_name": "com.example.thaparexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616922099643-ibp5d35q7qf9o94uf1729l7namgpackm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxzqO39lgugeS_ihoTfjx4bQj-SFugICg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616922099643-ibp5d35q7qf9o94uf1729l7namgpackm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
